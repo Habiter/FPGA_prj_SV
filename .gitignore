@@ -1,0 +1,8 @@
+# Modelsim complie ignore
+/**/work/
+# modelsim prj ignore
+*.mpf   
+*.cr.mti
+# book source code
+/sv-design_book_examples/
+# 
